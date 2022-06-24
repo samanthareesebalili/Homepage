@@ -1,0 +1,36 @@
+.left {
+    display: none;
+}
+
+header h1 {
+    color: #FFFFFF;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+header {
+    background-color: rgb(178,178,178);
+}
+
+nav a {
+    color: #000000;
+    background-color: rgb(197, 197, 197)
+}
+
+.right h2 {
+    color: rgb(1, 5, 128);
+    text-transform: uppercase;
+}
+
+.right {
+    background-color: rgb(127,127,127);
+}
+
+abbr {
+	text-decoration: none;
+}
+
+.right a {
+	color: #000000;
+	background-color: rgb(160, 160, 160)
+}	
